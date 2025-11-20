@@ -1,0 +1,3 @@
+user,pass,id_role
+admin,admin,1
+fabio,fabio,2

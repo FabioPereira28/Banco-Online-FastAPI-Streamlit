@@ -1,0 +1,3 @@
+user,saldo
+admin,1000010.0
+fabio,800.0

@@ -1,0 +1,4 @@
+id_role,nome
+1,Gestor
+2,Cliente
+3,Admin
